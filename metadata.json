@@ -1,0 +1,6 @@
+{
+  "name": "یدک پلاس - سامانه هوشمند لوازم یدکی خودرو",
+  "description": "فروشگاه آنلاین و سامانه هوشمند جستجو، مقایسه فنی و سفارش لوازم یدکی با دستیار هوش مصنوعی و پنل پیشرفته مدیریت و حسابداری",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
